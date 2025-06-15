@@ -15,6 +15,30 @@ A collection of my software engineering management and economics course assignme
 
 ## 仓库组成
 
+* [Assignment 1 Project Overview Statement](Assignment_1_Project_Overview_Statement.pdf)
+课程作业 1：项目概要说明书
+
+* [Assignment 2 Project Charter](Assignment_2_Project_Charter.pdf)
+课程作业 2：项目宪章
+
+* [Assignment 3 Critical Path](Assignment_3_Critical_Path.pdf)
+课程作业 3：求解关键路径
+
+* [Experiment 1 Seeking Demand Curve](Experiment_1_Seeking_Demand_Curve.md)
+实验报告 1：需求曲线探索实验
+
+* [Experiment 2 Cost Estimation of Software Project](Experiment_2_Cost_Estimation_of_Software_Project.md)
+实验报告 2：软件项目成本估算实验
+
+* [Experiment 3 Economical Evaluation of Software Project](Experiment_3_Economical_Evaluation_of_Software_Project.md)
+实验报告 3：软件项目经济性评估实验
+
+* [Meeting Minutes](Meeting_Minutes.md)
+会议纪要
+
+* [Mid-term Defense](Mid-term_Defense.pptx)
+中期答辩
+
 ## 免责声明
 
 The code and materials contained in this repository are intended for personal learning and research purposes only and may not be used for any commercial purposes. Other users who download or refer to the content of this repository must strictly adhere to the **principles of academic integrity** and must not use these materials for any form of homework submission or other actions that may violate academic honesty. I am not responsible for any direct or indirect consequences arising from the improper use of the contents of this repository. Please ensure that your actions comply with the regulations of your school or institution, as well as applicable laws and regulations, before using this content. If you have any questions, please contact me via [email](mailto:minmuslin@outlook.com).
@@ -23,4 +47,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2025年3月16日
+2025年6月15日

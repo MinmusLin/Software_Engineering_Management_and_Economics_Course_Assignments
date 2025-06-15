@@ -39,6 +39,9 @@ A collection of my software engineering management and economics course assignme
 * [Mid-term Defense](Mid-term_Defense.pptx)
 中期答辩
 
+* [Project Management and Economic Analysis Report](Project_Management_and_Economic_Analysis_Report.pdf)
+项目管理和经济分析报告
+
 ## 免责声明
 
 The code and materials contained in this repository are intended for personal learning and research purposes only and may not be used for any commercial purposes. Other users who download or refer to the content of this repository must strictly adhere to the **principles of academic integrity** and must not use these materials for any form of homework submission or other actions that may violate academic honesty. I am not responsible for any direct or indirect consequences arising from the improper use of the contents of this repository. Please ensure that your actions comply with the regulations of your school or institution, as well as applicable laws and regulations, before using this content. If you have any questions, please contact me via [email](mailto:minmuslin@outlook.com).
@@ -47,4 +50,4 @@ The code and materials contained in this repository are intended for personal le
 
 ## 文档更新日期
 
-2025年6月15日
+2025年6月16日

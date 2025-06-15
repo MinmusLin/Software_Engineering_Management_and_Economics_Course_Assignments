@@ -261,7 +261,7 @@ Basic reserve funds (10% of the sum of the above three construction investments,
 | Pre-tax Cash Flow | -66.16 | -96.92 | 2.55 | 35.38 | 77.11 | 163.64 |
 | Cumulative Pre-tax Cash Flow | -66.16 | -163.08 | -160.53 | -125.15 | -48.04 | 115.60 |
 
-#### 3.3.8 Key Financial Indicators:
+#### 3.3.8 Key Financial Indicators
 
 * Project Financial Internal Rate of Return (IRR): **15.04%**
 * Project Financial Net Present Value (i=8%) (NPV): **42.42 (10,000 yuan)**

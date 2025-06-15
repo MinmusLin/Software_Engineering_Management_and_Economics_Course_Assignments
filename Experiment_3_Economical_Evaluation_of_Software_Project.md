@@ -359,7 +359,7 @@ Based on the pre-financing evaluation results (NPV = ¥424,200, IRR = 15.04%, pa
 
 * **Worst-Case Scenario** (20% revenue decline + 2% interest rate hike):
   * NPV drops to ~¥250,000 but stays positive.
-  * Payback period extends to ~5.3 years (still acceptable).
+  * The payback period extends to ~5.3 years (still acceptable).
 
 #### 3.5.5 Decision Recommendation
 
